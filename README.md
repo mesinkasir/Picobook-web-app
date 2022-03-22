@@ -4,7 +4,7 @@
 
 Picobook pico set web app, blazing fast, flat file CMS.
 
-![Picobook is a template for PICO CMS , blazing fast, flat file CMS.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyL5cpI4Fvv9ql1gPg7k2M-MHA8qLprGC4mqXf2Qel4C8c-0jOHYfmnlfQVUDrfB9VOLNLgrQ3gwuj5OQLJMK3ubS2puCmksbmLBqJhX_P8ECo0ieAaAT9EUR93taXtGhM2xaxcQUo1748MjnnhHI9NInYZmrbD4_G5u-QsA1KeqgBr7xeb0fm1remw/s1349/pico%20cms%20template%20themes%20free%20download%20flatfile%20cms%20website%20(1).png)
+![Picobook is a template for PICO CMS , blazing fast, flat file CMS.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOMeMP0_TGwEMUMlNxk7vf6TArg5C73ZxU_ORyUz0XNegV_7PL5jcrAq2qIe5RYYzoZNpXESzs5Qumk9foIwVGAjoEygTFDLxwMY2atCpk1IulZ_j5GNxoVpMcwGn89Iw2EKXiKvGYdklNpM5XMgG0-ANe-6Y8SpUTS-P4auHvwfx8uG9S2QsY6aYutQ/s1349/pico%20cms%20template%20themes%20free%20download%20flatfile%20cms%20website%20(2).png)
 
 Test drive demo 🚀 : [https://axcora.my.id/picobook/demo/](https://axcora.my.id/pico/picobook/demo/)
 
