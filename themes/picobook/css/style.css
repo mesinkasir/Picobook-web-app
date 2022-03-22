@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@500&display=swap');
+html,body {
+        font-family: 'Hind Siliguri', sans-serif;
+}
+    a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}

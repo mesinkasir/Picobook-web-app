@@ -1,0 +1,33 @@
+<div class="d-flex flex-column flex-shrink-0 col-md-1 col-2 p-3 fixed-top" id="myTab" role="tablist">
+    
+      
+    <ul class="nav nav-pills nav-flush flex-column mb-auto text-center border">
+        <li class="p-1 border-bottom bg-dark">
+     {% if pages["_meta"].meta.logo %}
+       <a  class="text-light text-center p-1 rounded" href="{{ "index"|link }}">
+                        <img src="{{ pages["_meta"].meta.logo|url }}" width="45" alt="{{ site_title }}" />
+                    </a>
+            {% endif %}
+            </li>
+       {% for page in pages(depthOffset=-1) if page.title and not page.hidden %}
+      <li class="bg-white">
+        <a href="{{ page.url }}" class="nav-link py-3 border-bottom text-dark" title="Dashboard" data-bs-toggle="tooltip" data-bs-placement="right">
+       <i class="fa-solid fa-book fa-2x"></i><br/><small><small>{{ page.title }}</small></small>
+        </a>
+      </li>
+      {% endfor %}
+       <li class="bg-dark">
+      <a href="#" class="align-items-center justify-content-center p-3 link-dark btn btn-dark col-12 text-white " id="dropdownUser3" data-bs-toggle="dropdown" aria-expanded="false">
+       <i class="fa-solid fa-headset fa-2x"></i>
+      </a>
+      <ul class="dropdown-menu text-small shadow" aria-labelledby="dropdownUser3">
+           {% for contact in pages["_meta"].meta.contact %}
+        <li><a class="dropdown-item" href="{{ contact.url }}"><i class="{{ contact.icon }} text-dark"></i>&nbsp; {{ contact.title }}</a></li>
+        {% endfor %}
+        <li><a class="dropdown-item" href="pico_edit"><i class="fa-solid fa-fingerprint"></i>&nbsp; Login</a></li>
+      </ul>
+    </li>
+     </ul>
+     
+  </div>
+ <div class="col-md-1 col-3"></div>
