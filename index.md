@@ -6,9 +6,9 @@ Picobook pico set web app, blazing fast, flat file CMS.
 
 ![Picobook is a template for PICO CMS , blazing fast, flat file CMS.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyL5cpI4Fvv9ql1gPg7k2M-MHA8qLprGC4mqXf2Qel4C8c-0jOHYfmnlfQVUDrfB9VOLNLgrQ3gwuj5OQLJMK3ubS2puCmksbmLBqJhX_P8ECo0ieAaAT9EUR93taXtGhM2xaxcQUo1748MjnnhHI9NInYZmrbD4_G5u-QsA1KeqgBr7xeb0fm1remw/s1349/pico%20cms%20template%20themes%20free%20download%20flatfile%20cms%20website%20(1).png)
 
-Test drive demo 🚀 : [https://axcora.my.id/piconic/demo/](https://axcora.my.id/pico/picobook/demo/)
+Test drive demo 🚀 : [https://axcora.my.id/picobook/demo/](https://axcora.my.id/pico/picobook/demo/)
 
-Home page area 💻 : [https://axcora.my.id/piconic/](https://axcora.my.id/pico/picobook)
+Home page area 💻 : [https://axcora.my.id/picobook/](https://axcora.my.id/pico/picobook)
 
 Video demo 📹 : [https://youtu.be/GPOQzSnGqXw](https://youtu.be/GPOQzSnGqXw)
 
@@ -42,9 +42,10 @@ Simple and easy work on Backend admin with article page markdown
 
 --------------------------------------
 
-Test drive demo 🚀 : [https://axcora.my.id/piconic/demo/](https://axcora.my.id/pico/picobook/demo/)
 
-Home page area 💻 : [https://axcora.my.id/piconic/](https://axcora.my.id/pico/picobook)
+Test drive demo 🚀 : [https://axcora.my.id/picobook/demo/](https://axcora.my.id/pico/picobook/demo/)
+
+Home page area 💻 : [https://axcora.my.id/picobook/](https://axcora.my.id/pico/picobook)
 
 Video demo 📹 : [https://youtu.be/GPOQzSnGqXw](https://youtu.be/GPOQzSnGqXw)
 
