@@ -5,7 +5,8 @@ global $backend_password;
 /*
  * This should be a sha256 hash of your password.
  * Use a tool like https://convertstring.com/Hash/SHA256 to generate.
+ * pass: axcora
  */
-$backend_password = '0F89F2B8AEBC965C174AEF844A2DC1B4BE3C7F322FF2158CCCFD682AC16D24ED';
+$backend_password = 'E280A8E456D2FC7B9FE3189A916D1AA96FE19A1C09B73FBEE613A5A2E6A8AD7C';
 
 ?>
